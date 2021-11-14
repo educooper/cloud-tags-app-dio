@@ -47,7 +47,7 @@ $ cd cloud-tags-apps-dio
 #create a new ruby project with postgreesql
 rails new cloud-tags-app-dio -d postgreesql -T 
 
-Editar o GEMFILE adicionando o DEVISE - uma solução completa de autenticação de usuários
+#Edit the GEMFILE and add DEVISE - a complete solution for user authentications
 gem 'devise'
 bundle install
 rails generate devise install
