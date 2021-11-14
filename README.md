@@ -31,7 +31,7 @@ In this project we create a cloud mind app with tags and complete user and conte
 
 ## :white_check_mark: Requirements ##
 
-Get Starting :checkered_flag:, you need to install [Git](https://git-scm.com) and [Ruby](https://www.ruby-lang.org/en/).
+Before Starting :checkered_flag:, you need to install [Git](https://git-scm.com) and [Ruby](https://www.ruby-lang.org/en/).
 
 ## :checkered_flag: Get Starting ##
 
