@@ -62,6 +62,6 @@ $ rails server
 Access it on [http://localhost:3000](http://localhost:3000)
 ```
 
-Thanks very munch to the great dev [Matheus benites](https://github.com/benits) and [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
+Thanks very munch to the great dev [Bruno Oliveira](https://github.com/brunoao86) and [Digital Innovation One](https://web.digitalinnovation.one/) for this great opportunity!
 
 <a href="#top">Back to the Top</a>
